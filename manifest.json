@@ -1,1 +1,10 @@
-{"name":"Marine ETO Academy","short_name":"ETO Academy","start_url":"./index.html","display":"standalone","background_color":"#f4f7fa","theme_color":"#102536","description":"Marine ETO electrical study companion","icons":[]}
+
+{
+  "name": "Marine ETO Academy",
+  "short_name": "ETO Academy",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eaf0f3",
+  "theme_color": "#102536",
+  "description": "Expanded Marine ETO study companion"
+}
